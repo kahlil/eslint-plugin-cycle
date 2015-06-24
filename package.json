@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-cycle",
+  "version": "1.0.0",
+  "description": "ESLint plugin with Cyclejs-specific rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyclejs/eslint-plugin-cycle"
+  },
+  "keywords": [
+    "cycle",
+    "cyclejs",
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin"
+  ],
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "author": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyclejs/eslint-plugin-cycle/issues"
+  },
+  "homepage": "https://github.com/cyclejs/eslint-plugin-cycle"
+}
