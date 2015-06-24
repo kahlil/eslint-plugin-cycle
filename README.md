@@ -1,8 +1,6 @@
 ESLint-plugin-Cycle
 ===================
 
-[![NPM version][npm-image]][npm-url] [![Dependency Status][deps-image]][deps-url]
-
 ESLint rules specific to Cycle.js
 
 # Installation
