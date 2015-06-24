@@ -1,6 +1,8 @@
 ESLint-plugin-Cycle
 ===================
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-cycle.svg)](http://badge.fury.io/js/eslint-plugin-cycle)
+
 ESLint rules specific to Cycle.js
 
 # Installation
