@@ -18,7 +18,7 @@
     "eslintplugin"
   ],
   "peerDependencies": {
-    "eslint": ">=0.8.0"
+    "eslint": "1.0.x"
   },
   "author": "Andre Staltz <andre+npm@staltz.com> (http://andre.staltz.com/)",
   "license": "MIT",
