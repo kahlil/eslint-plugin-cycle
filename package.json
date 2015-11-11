@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-cycle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint plugin with Cyclejs-specific rules",
   "main": "index.js",
   "scripts": {
